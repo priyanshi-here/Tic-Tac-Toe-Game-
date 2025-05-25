@@ -4,7 +4,7 @@ A simple, responsive, and interactive **Tic-Tac-Toe** game built using **HTML, C
 
 ## 🚀 Live Demo
 
-[Play Tic-Tac-Toe Now](#)  
+[Play Tic-Tac-Toe Now](http://127.0.0.1:5500/tic-main.html)  
 *(Replace `#` with the link if hosted online)*
 
 ---

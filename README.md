@@ -2,11 +2,6 @@
 
 A simple, responsive, and interactive **Tic-Tac-Toe** game built using **HTML, CSS, and JavaScript**. Play in your browser against another player in a classic "X vs O" showdown!
 
-## 🚀 Live Demo
-
-[Play Tic-Tac-Toe Now](http://127.0.0.1:5500/tic-main.html)  
-*(Replace `#` with the link if hosted online)*
-
 ---
 
 ## 📌 Features
